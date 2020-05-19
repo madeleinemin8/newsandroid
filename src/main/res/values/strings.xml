@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ViewsNews</string>
+    <string name="pol">Politics</string>
+    <string name="glo">Global</string>
+    <string name="spo">Sports</string>
+    <string name="fav">Favorites</string>
+
+    <string name="abc">ABC News</string>
+    <string name="breitbart">Breitbart</string>
+    <string name="businessInsider">Business Insider</string>
+    <string name="nyt">New York Times</string>
+    <string name="wsj">Wall Street Journal</string>
+    <string name="ap">Associated Press</string>
+    <string name="wapo">Washington Post</string>
+    <string name="trend">TRENDING</string>
+    <string name="srch">SEARCH</string>
+    <string name="default_query">NASA</string>
+
+    <string name="abc_code">abc-news-au</string>
+    <string name="breitbart_code">breitbart-news</string>
+    <string name="BI_code">business-insider</string>
+    <string name="nyt_code">the-new-york-times</string>
+    <string name="wsj_code">the-wall-street-journal</string>
+</resources>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#34344A</color>
+    <color name="colorPrimaryDark">#34344A</color>
+    <color name="colorAccent">#EA7AF4</color>
+
+    <color name="colorBackground">#fbfbff</color>
+    <color name="yellowChoice">#FFB238</color>
+    <color name="redChoice">#D00000</color>
+    <color name="purpleChoice">#540D6E</color>
+    <color name="greenChoice">#6DA34D</color>
+    <color name="pinkChoice">#EE4266</color>
+
+    <color name="abc">#0E3C66</color>
+    <color name="breitbart">#EA5033</color>
+    <color name="businessInsider">#345A68</color>
+    <color name="nyt">#101110</color>
+    <color name="wsj">#000000</color>
+    <color name="ap">#E93E33</color>
+</resources>
